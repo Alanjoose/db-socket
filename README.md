@@ -30,13 +30,13 @@
  The package configuration is done through the project's environment variables. Here's an example of how to do it using native PHP variables:
 </h4>
 
-<img src="https://github.com/Alanjoose/db-socket/blob/v0.1/docs/env_vars_example.png"/>
+<img src="https://github.com/Alanjoose/db-socket/blob/master/docs/env_vars_example.png"/>
 
 <h4>
  But there is another form of configuration, which I particularly recommend; which is the use of the <a href="https://github.com/vlucas/phpdotenv"><b>vlucas/phpdotenv</b></a> package, follow the example:
 </h4>
 
-<img src="https://github.com/Alanjoose/db-socket/blob/v0.1/docs/dot_env_example.png"/>
+<img src="https://github.com/Alanjoose/db-socket/blob/master/docs/dot_env_example.png"/>
 
 ### Basic usage
 
